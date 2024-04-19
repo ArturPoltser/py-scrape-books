@@ -5,4 +5,3 @@ flake8-variables-names==0.0.5
 pep8-naming==0.13.2
 Scrapy~=2.11.1
 itemadapter~=0.8.0
-selenium~=4.19.0
